@@ -1,7 +1,3 @@
-*
-   Detector de presença utilizando a tecnologia de Bluetooth Low Energy
-   Microcontrolador utilizado: ESP32
-*/
 
 // --- WIFI ---
 #include <WiFi.h>
